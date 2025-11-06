@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a **production-ready, content-agnostic Eleventy static site template** extracted from the successful Dyscalculia Hub deployment. It provides a complete foundation for building searchable, filterable, content-rich websites.
+This is a **production-ready, content-agnostic Eleventy static site template**. It provides a complete foundation for building searchable, filterable, content-rich websites.
 
 ## What's Included
 
@@ -133,7 +133,7 @@ npm run dev
 
 To keep the template clean and focused:
 
-- ❌ Project-specific content (dyscalculia materials)
+- ❌ Project-specific content
 - ❌ Custom policy generation tools
 - ❌ Project-specific dev logs
 - ❌ Node modules (install with `npm install`)
@@ -168,8 +168,6 @@ This template is perfect for:
 - 🔬 **Research Sites** - Academic content, papers
 
 ## Success Metrics
-
-Based on the original Dyscalculia Hub deployment:
 
 - ✅ **Build Time**: <1 second for 20 pages
 - ✅ **Search Speed**: Sub-second results
@@ -207,8 +205,6 @@ MIT License - Free to use for any project, commercial or personal.
 
 ## Credits
 
-- **Original Project**: Dyscalculia Hub (Ted Wragg Trust)
-- **Template Extraction**: 2024-11-06
 - **Built With**: Eleventy, Lunr.js, Modern Web Standards
 
 ## Next Steps
