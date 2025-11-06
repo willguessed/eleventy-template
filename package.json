@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "eleventy --serve",
     "build": "eleventy",
-    "build:gh": "cross-env ELEVENTY_PATH_PREFIX=/your-repo-name eleventy",
+    "build:gh": "cross-env ELEVENTY_PATH_PREFIX=/eleventy-template eleventy",
     "clean": "rm -rf _site"
   },
   "keywords": [
