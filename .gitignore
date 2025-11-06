@@ -7,4 +7,3 @@ _site/
 .cache/
 dist/
 build/
-package-lock.json
